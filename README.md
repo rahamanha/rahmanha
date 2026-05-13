@@ -1,76 +1,117 @@
-# 👋 Hello, I'm Arif Rahman Hakim
+<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=arifmanzsa&label=Profile%20Views&color=0e75b6&style=flat)
-![Followers](https://img.shields.io/github/followers/arifmanzsa?label=Followers&style=flat)
-![Stars](https://img.shields.io/github/stars/arifmanzsa?affiliations=OWNER%2CCOLLABORATOR&style=flat)
+# 👋 Hi, I'm Arif Rahman Hakim  
+### aka **Gallagher** ✨
 
-## ✨ Passionate Developer
+![Profile Views](https://komarev.com/ghpvc/?username=rahmanha&label=Profile%20Views&color=ff69b4&style=flat)
+![Followers](https://img.shields.io/github/followers/rahmanha?label=Followers&style=flat&color=ff69b4)
+![Stars](https://img.shields.io/github/stars/rahmanha?affiliations=OWNER%2CCOLLABORATOR&style=flat&color=ffd700)
 
-I’m a fullstack developer who loves building useful software, learning new technologies, and exploring open source.
-
-- 🌍 Based in Indonesia
-- 💻 Interested in Web Development, Automation, and Open Source
-- 🚀 Always building and learning something new
-
-> "Built with curiosity, improved with consistency."
+</div>
 
 ---
 
-## 🛠 Tech & Tools
+## 🌸 About Me
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+Hi! I'm **Arif Rahman Hakim**, a **Fullstack Developer** and **student** from **Majalengka, Indonesia**.
+
+Aku suka bikin **website**, **aplikasi**, dan terus belajar teknologi baru.  
+Saat ini aku lagi fokus ngembangin skill di dunia web development, mulai dari frontend, backend, sampai database.
+
+> *Learning by building, growing by trying.* ✨
 
 ---
 
-## 🚧 Ongoing Projects
+## 🛠 Tech Stack
 
-### 🔹 Project One
-Short description of your project.
+### 💻 Languages & Frameworks
 
-- Tech: React, Node.js
-- Repo: https://github.com/arifmanzsa/project-one
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-### 🔹 Project Two
-Short description of your project.
+### ⚙️ Tools
 
-- Tech: Python
-- Repo: https://github.com/arifmanzsa/project-two
-
-### 🔹 Project Three
-Short description of your project.
-
-- Tech: Next.js, Tailwind
-- Repo: https://github.com/arifmanzsa/project-three
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=flat&logo=laragon&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-000000?style=flat&logo=google&logoColor=white)
 
 ---
 
-## 🌐 Find Me Online
+## 🚧 Currently Learning
 
-- GitHub: [github.com/arifmanzsa](https://github.com/arifmanzsa)
-- LinkedIn: [linkedin.com/in/username](https://linkedin.com/in/username)
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)
-- Email: yourmail@gmail.com
+- Building modern websites with **React** and **Next.js**
+- Backend development with **Node.js**, **PHP**, and **Laravel**
+- Database management using **MySQL**
+- UI styling with **Tailwind CSS**
+- Creating clean and useful applications
+
+---
+
+## 🌱 Future Projects
+
+Karena GitHub ini masih baru, project akan segera ditambahkan.  
+Beberapa ide project yang akan aku buat:
+
+### 🍰 Personal Portfolio Website
+Website portfolio pribadi untuk menampilkan profile, skill, dan project.
+
+**Tech:** Next.js, Tailwind CSS
+
+### 📚 Student Task Manager
+Aplikasi sederhana untuk mengatur tugas sekolah/kuliah.
+
+**Tech:** React, Node.js, MySQL
+
+### 🌦 Weather App
+Aplikasi cuaca dengan tampilan clean dan responsive.
+
+**Tech:** JavaScript, API, CSS
+
+### 🛒 Simple Online Store
+Website toko online sederhana dengan fitur produk dan checkout basic.
+
+**Tech:** Laravel, MySQL, Tailwind CSS
 
 ---
 
 ## 📊 GitHub Stats
 
-![Arif's GitHub stats](https://github-readme-stats.vercel.app/api?username=arifmanzsa&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifmanzsa&layout=compact&theme=tokyonight)
+<div align="center">
+
+![Gallagher's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahmanha&show_icons=true&theme=radical&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahmanha&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=rahmanha&theme=radical&hide_border=true)
+
+</div>
 
 ---
 
-## 🔥 Contribution Streak
+## 🌐 Find Me Online
 
-![GitHub Streak](https://streak-stats.demolab.com?user=arifmanzsa&theme=tokyonight)
+- 📸 Instagram: [@rahman.vincete](https://instagram.com/rahman.vincete)
+- 📧 Email: [saepudinriki@gmail.com](mailto:saepudinriki@gmail.com)
+- 🌍 Portfolio: Coming soon...
 
 ---
 
-⭐ Thanks for visiting my profile!
+<div align="center">
+
+### ✨ Thanks for visiting my profile ✨
+
+*"Keep learning, keep building, and enjoy the process."*
+
+</div>
